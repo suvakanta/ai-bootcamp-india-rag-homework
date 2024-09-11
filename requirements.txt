@@ -1,0 +1,4 @@
+ragas
+datasets
+python-dotenv
+jsonschema
