@@ -30,7 +30,6 @@ pip install -r requirements.txt
 OPENAI_API_KEY=sk-...
 ```
 
-### 3. Implement Question Answering RAG 
 ### 3. Implementing a Question Answering RAG System
 
 A question-answering system is one of the most common types of LLM (Large Language Model) applications implemented using the RAG (Retrieval-Augmented Generation) technique.
@@ -90,7 +89,7 @@ To ensure fair grading of all participants' submissions, we have prepared a list
 
 You can find these 50 questions in the repository at [questions.json](questions.json).
 
-Please write a short script that retrieves contexts from your vector database for each of the questions and generates answers. The questions, retrieved contexts, and answers should be saved in a JSON format, as shown in the [output-example.json](output-example.json).
+Please write a short script that retrieves contexts from your vector database for each of the questions and generates answers. The questions, retrieved contexts, and answers should be saved in a JSON format, as shown in the [output-example.json](./results/output-example.json).
 
 This is necessary so that we can use the outputs of your system to automatically evaluate it using RAGAS metrics.
 
