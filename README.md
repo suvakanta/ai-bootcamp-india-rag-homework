@@ -158,5 +158,11 @@ When you're satisfied with the results, please ensure that you commit and push t
 - The JSON file containing the outputs for our question list
 - The files in the `results/` directory containing the evaluation results and details.
 
+---
+[The transcript](docs/intro-to-llms-karpathy.txt) and [evaluation dataset](eval/eval_dataset.csv) in this project are based on content from the YouTube video [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) by Andrej Karpathy, licensed under Creative Commons Attribution (CC-BY). Changes have been made to format the transcript. 
+---
+
+
+
 
 
