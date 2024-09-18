@@ -1,5 +1,5 @@
 # AI Bootcamp in India
-## Homework Assignment
+## Homework 2
 
 ### Overview
 
