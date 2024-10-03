@@ -1,6 +1,6 @@
 import os
 import argparse
-from dotenv import load_dotenv
+from dotenv import load_dotenv 
 import json
 import jsonschema
 from jsonschema import validate

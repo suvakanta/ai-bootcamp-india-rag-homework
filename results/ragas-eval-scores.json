@@ -1,0 +1,10 @@
+{
+    "results": {
+        "faithfulness": NaN,
+        "answer_relevancy": NaN,
+        "context_recall": NaN,
+        "context_precision": NaN,
+        "answer_correctness": NaN
+    },
+    "ragas_score": NaN
+}
