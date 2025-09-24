@@ -2,3 +2,5 @@ ragas
 datasets
 python-dotenv
 jsonschema
+pytest
+pytest-cov
